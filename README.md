@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Dewset's github stats](https://github-readme-stats.vercel.app/api?username=Dewset)](https://github.com/Dewset/github-readme-stats)
+[![Dewset's github stats](https://github-readme-stats.vercel.app/api?username=Dewset?theme=dracula)](https://github.com/Dewset/github-readme-stats)
 
 <!--
 **Dewset/Dewset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
