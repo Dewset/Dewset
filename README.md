@@ -8,11 +8,7 @@ My name is **Zhiyu Cao** (**曹智禹** in simplified Chinese)
 - 💬 You can reach me via [qq](mailto:1291155689@qq.com) and [netease email](mailto:dewset@163.com).
 
 [![Dewset's github stats](https://github-readme-stats.vercel.app/api?username=Dewset&show_icons=true&theme=radical)](https://github.com/Dewset/github-readme-stats)
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+
 <!--
 **Dewset/Dewset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
