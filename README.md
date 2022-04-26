@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Dewset)
+
 My name is **Zhiyu Cao** (**曹智禹** in simplified Chinese)
 - 🔭 I'm currently a senior student at China University of Petroleum（East China），majored in software engineering.
 - 🌱 My main research interest focus on discourse parsing and dialogue generation.
@@ -26,6 +28,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=Dewset)
 <!-- [![Dewset's github stats](https://github-readme-stats.vercel.app/api?username=Dewset&hide=issues&show_icons=true)](https://github.com/Dewset) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dewset&layout=compact)](https://github.com/Dewset)
