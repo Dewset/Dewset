@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Dewset's github stats](https://github-readme-stats.vercel.app/api?username=Dewset&hide=issues&show_icons=true)](https://github.com/Dewset)
+<!-- [![Dewset's github stats](https://github-readme-stats.vercel.app/api?username=Dewset&hide=issues&show_icons=true)](https://github.com/Dewset) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dewset&layout=compact)](https://github.com/Dewset)
