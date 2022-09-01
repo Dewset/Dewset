@@ -5,7 +5,7 @@
 My name is **Zhiyu Cao** (**曹智禹** in simplified Chinese)
 - 🔭 I'm currently a master at Soochow University, majored in software engineering. Before that, I obtained the bachelor's degree in software engineering from China University of Petroleum(East China).
 - 🌱 My main research interest is natural language processing.
-- 💬 You can reach me via [outlook email](mailto:zycao_dewset@outlook.com) and [netease email](mailto:dewset@163.com).
+- 💬 You can reach me via [outlook email](mailto:zycao_dewset@outlook.com) or [netease email](mailto:dewset@163.com).
 
 [![Dewset's github stats](https://github-readme-stats.vercel.app/api?username=Dewset&show_icons=true&theme=radical)](https://github.com/Dewset/github-readme-stats)
 
