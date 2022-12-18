@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Dewset)
 
 My name is **Zhiyu Cao** (**曹智禹** in simplified Chinese)
-- 🔭 I'm currently a master at Soochow University, majored in software engineering. Before that, I obtained the bachelor's degree in software engineering from China University of Petroleum(East China).
+- 🔭 I'm currently a master student at Soochow University, majored in software engineering. Before that, I obtained the bachelor's degree in software engineering from China University of Petroleum (East China).
 - 🌱 My main research interest is natural language processing.
 - 💬 You can reach me via [gmail](mailto:zhiyucao18@gmail.com) or [qq email](mailto:dewset@qq.com).
 
