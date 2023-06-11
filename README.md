@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href = "https://www.zhihu.com/people/prairie-73"><img src="https://img.shields.io/badge/-ZhiHu(知乎)-blue?style=plastic&logo=zhihu&logoColor=white" target="_blank"></a>
 ![](https://komarev.com/ghpvc/?username=Dewset)
 
 My name is **Zhiyu Cao** (**曹智禹** in simplified Chinese)
