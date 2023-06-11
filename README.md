@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+<a href = "mailto: zhiyucao18@gmail.com"><img src="https://img.shields.io/badge/-GMail-yellow?style=plastic&logo=gmail&logoColor=red" target="_blank"></a>
 <a href = "https://www.zhihu.com/people/prairie-73"><img src="https://img.shields.io/badge/-ZhiHu(知乎)-blue?style=plastic&logo=zhihu&logoColor=white" target="_blank"></a>
+<a href = "https://info.dewset.top/"><img src="https://img.shields.io/badge/-Curriculum%20Vitae-white?style=plastic&logo=cv" target="_blank"></a>
 ![](https://komarev.com/ghpvc/?username=Dewset)
 
 My name is **Zhiyu Cao** (**曹智禹** in simplified Chinese)
